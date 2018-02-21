@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1473097451 source:c:\documents and settings\tarc016950\desktop\pokemon\main.c
+	"pokemon.h"
+
+1472842503 source:c:\documents and settings\tarc016950\desktop\pokemon\pokemon.c
+	"pokemon.h"
+
+1473102907 c:\documents and settings\tarc016950\desktop\pokemon\pokemon.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1472506920 source:c:\documents and settings\tarc016950.ltismb\desktop\pokemon\main.c
+	"pokemon.h"
+
+1472506826 c:\documents and settings\tarc016950.ltismb\desktop\pokemon\pokemon.h
+	<stdio.h>
+	<stdlib.h>
+
+1472506826 source:c:\documents and settings\tarc016950.ltismb\desktop\pokemon\pokemon.c
+	"pokemon.h"
+
